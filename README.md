@@ -2,7 +2,7 @@
 
 A program that lists your machines and allows you to connect to any of them via SSH.
 
-![[demo.gif]]
+![Demo](demo.gif)
 
 # How to use
 
