@@ -1,6 +1,6 @@
 # ssh_to
 
-A program that lists your machines and allows you to connect to any of them via SSH.
+A program written in rust that lists your machines and allows you to connect to any of them via SSH.
 
 ![Demo](demo.gif)
 
